@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GGoDong's%20Github&fontSize=80&animation=fadeIn)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&width=435&lines=%EA%B9%80%EB%8F%99%EC%88%98%EC%9D%98+readme%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=GGoDong's%20Github&fontSize=80&animation=fadeIn)
 <!--
 **GGo-Dong/GGo-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
