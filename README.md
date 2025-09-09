@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GGoDong's%20Github&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=GGoDong's%20Github&fontSize=80&animation=fadeIn)
 <!--
 **GGo-Dong/GGo-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
